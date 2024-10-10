@@ -1,75 +1,46 @@
 # Jump-Ball-3D-Privacy-Policy
 Jump Ball 3D Privacy Policy
 
-**Privacy Policy**
+Last updated: August 21, 2024
+This Privacy Policy explains how TinmoiDev ("we," "us," or "our") collects, uses, discloses, and safeguards your information when you use our mobile application Jump Ball 3D or other related services. Please read this policy carefully.
 
-This privacy policy applies to the Jump Ball 3D app (hereby referred to as "Application") for mobile devices that was created by [Developer/Company name] (hereby referred to as "Service Provider") as [open source/free/freemium/ad-supported/commercial] service. This service is intended for use "AS IS".
+1. Information We Collect
+We collect personal information that you provide to us directly, such as when you contact us or use our services. We may also collect information about your device and usage of our application, including:
 
-**Information Collection and Use**
+Device ID, model, and manufacturer
+Operating system and version
+IP address
+Application usage data
+2. How We Use Your Information
+We use your information to:
 
-The Application collects information when you download and use it. This information may include information such as
+Provide, operate, and maintain our services
+Improve and personalize user experience
+Communicate with you, including sending notifications
+Ensure security and prevent fraud
+Comply with legal obligations
+3. Sharing Your Information
+We may share your information with:
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+Service providers who assist us in operating our services
+Business partners in case of mergers or acquisitions
+Law enforcement if required by law
+4. Data Security
+We implement security measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure.
 
-The Application does not gather precise information about the location of your mobile device.
+5. User Rights
+You have rights regarding your personal information, including the right to:
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+Access, correct, or delete your personal data
+Withdraw consent if you have provided it
+Object to or restrict processing of your data
+6. Children’s Privacy
+Our services are not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected such information, we will take steps to delete it.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information[add whatever else you collect here, e.g. users name, address, location, pictures] The information that the Service Provider request will be retained by them and used as described in this privacy policy.
-
-**Third Party Access**
-
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
-
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
-
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-**Opt-Out Rights**
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-**Data Retention Policy**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at mehmetdoganpekcan@gmail.com and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (mehmetdoganpekcan@gmail.com) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2024-10-10
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at mehmetdoganpekcan@gmail.com
+Email: tinmoidev@gmail.com
